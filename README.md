@@ -1,4 +1,3 @@
-# resume-yang.github.io
 # Welcome to Yang Yijun's *PERSONAL RESUME*
 
 Hi! I'm **Yang** **Y****i****jun** .
